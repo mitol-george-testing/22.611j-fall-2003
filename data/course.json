@@ -1,0 +1,46 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "High Energy Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "8f77340b-15d8-d699-d926-ac0c28a009d7",
+      "d1cd8edc-f7fd-5e91-5f5c-f79e9f8275c6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Plasma Physics I",
+  "course_description": "In this course, students will learn about plasmas, the fourth state of matter. The plasma state dominates the visible universe, and is of increasing economic importance. Plasmas behave in lots of interesting and sometimes unexpected ways.\n\nThe course is intended only as a first plasma physics course, but includes\u00a0critical concepts needed for a foundation for further study. A solid undergraduate background in classical physics, electromagnetic theory including Maxwell's equations, and mathematical familiarity with partial differential equations and complex analysis are prerequisites.\n\nThe course introduces plasma phenomena relevant to energy generation by controlled thermonuclear fusion and to astrophysics, coulomb collisions and transport processes, motion of charged particles in magnetic fields, plasma confinement schemes, MHD models, simple equilibrium and stability analysis. It also covers two-fluid hydrodynamic plasma models, wave propagation in a magnetic field, kinetic theory, Vlasov plasma model, electron plasma waves and Landau damping, ion-acoustic waves, and\u00a0streaming instabilities. A subject description tailored to fit the background and interests of the attending students is distributed shortly before and at the beginning of the subject.\n",
+  "department_numbers": [
+    "22",
+    "6",
+    "8"
+  ],
+  "extra_course_numbers": "6.651J,8.613J",
+  "primary_course_number": "22.611J",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
